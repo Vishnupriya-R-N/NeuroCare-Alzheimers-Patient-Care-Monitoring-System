@@ -32,7 +32,7 @@ NeuroCare is a web-based healthcare management system designed to support the ca
 * Patient
 * Caregiver
 * Doctor
-* Admin
+
 
 ## Project Status
 
