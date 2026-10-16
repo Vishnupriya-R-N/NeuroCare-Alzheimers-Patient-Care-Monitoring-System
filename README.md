@@ -13,7 +13,6 @@ NeuroCare is a web-based healthcare management system designed to support the ca
 * Caregiver monitoring
 * Doctor health records
 * Emergency alerts
-* Admin management
 * Real-time communication using Socket.IO
 
 ## Technologies Used
